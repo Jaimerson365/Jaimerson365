@@ -1,4 +1,4 @@
-### Olá pessoal, tudo bem com voçês ?; espero que sim :pray:
+### Olá pessoal, tudo bem com voçês ? espero que sim :pray:
 ## Chamo-me: Jaimerson Rodrigues :heavy_check_mark:
 - I live in: Brasil:, Sao paulo; 
 - Eu venho estudando as tecnologias :HTML, JAVASCRIPT, CSS, REACTJS e venho focando mais em FRON-END ;:computer:
