@@ -1,7 +1,7 @@
 ### Olá pessoal, tudo bem com voçês ? espero que sim :pray:
 ## Chamo-me: Jaimerson Rodrigues :heavy_check_mark:
 - I live in: Brasil:, Sao paulo; 
-- Eu venho estudando as tecnologias :HTML, JAVASCRIPT, CSS, REACTJS e venho focando mais em FRON-END ;:computer:
+- Eu venho estudando as tecnologias :HTML, JAVASCRIPT, CSS, REACTJS e venho focando mais em FRON-END, porém futuramente quero ser Full-Stack ;:computer:
 
 ## Connect with me:
 <a href= "https://www.linkedin.com/in/jaimerson-rodrigues-28953a171/" target="_black">
